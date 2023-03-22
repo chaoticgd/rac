@@ -1,0 +1,6 @@
+--style=java
+--align-pointer=type
+--indent-cases
+--indent=tab=4
+--pad-comma
+--unpad-paren
